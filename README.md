@@ -1,6 +1,16 @@
 # Walmart-Sales-Forecasting-Using-EDA-and-Machine-Learning
 ![image](https://github.com/user-attachments/assets/269b7515-4bcd-4aa2-a766-d24c7942b09e)
-## Project Description
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objective](#objective)
+- [Dataset Overview](#dataset-overview)
+- [Models Built](#models-built)
+- [Metrics Used](#metrics-used)
+- [Technologies Used](#technologies-used)
+- [Observations from Machine Learning Models](#observations-from-machine-learning-models)
+- [Key Insights](key-insights)
+- [Recommendations](#Recommendations)
+## Project Overview
 This project uses a dataset of over 5,50,068 Walmart retail records to analyze customer purchase behavior and build predictive models. The objective is to forecast purchase amounts based on customer demographics and transactional features using machine learning.
 ## Objective
 * Perform comprehensive exploratory data analysis (EDA) on Walmart's customer data
