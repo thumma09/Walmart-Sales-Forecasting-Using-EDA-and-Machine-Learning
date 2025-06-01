@@ -40,7 +40,7 @@ The dataset includes:
 * Age group 51–55 shows the most variation in spending.
 * Gender has minimal effect on purchase amounts.
 * Marital status does not significantly influence spending.
-  #### Recommendations
+  ## Recommendations
 * Focus marketing on City C, which shows higher average spending.
 * Target Age 51–55 with personalized offers due to their variable spending behavior.
 * Promote low-performing product categories to improve visibility and sales.
